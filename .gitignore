@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+.vercel_downloader_config.json
+.env
